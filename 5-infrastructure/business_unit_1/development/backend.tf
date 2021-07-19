@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-terraform {
-  backend "gcs" {
-    bucket = "app-dev"
-    prefix = "terraform/app-infra/development"
-  }
-}
+#terraform {
+#  backend "gcs" {
+#    bucket = "app-dev"
+#    prefix = "terraform/app-infra/development"
+#  }
+#}
